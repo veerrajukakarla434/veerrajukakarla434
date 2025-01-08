@@ -7,7 +7,7 @@ With over 13+ years of hands-on experience in designing, developing, and maintai
 #### https://www.linkedin.com/in/veerraju-kakarla-54292458/
 
 #### Youtube Channel Link
-https://www.youtube.com/Vkakarla
+#### https://www.youtube.com/Vkakarla
 
 #### Profile Metrics 
 
