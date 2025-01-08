@@ -14,7 +14,5 @@ https://www.youtube.com/Vkakarla
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veerrajukakarla434&show_icons=true&include_all_commits=true&count_private=true&locale=en"  alt="veerrajukakarla434" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veerrajukakarla434" alt="veerrajukakarla434" /></p>
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=veerrajukakarla434&theme=transparent&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
