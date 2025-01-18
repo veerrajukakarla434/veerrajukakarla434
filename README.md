@@ -16,4 +16,3 @@ With over 13+ years of hands-on experience in designing, developing, and maintai
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veerrajukakarla434&show_icons=true&locale=en&layout=compact"  alt="veerrajukakarla434" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veerrajukakarla434&show_icons=true&include_all_commits=true&count_private=true&locale=en"  alt="veerrajukakarla434" /></p>
-
