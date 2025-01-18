@@ -13,6 +13,7 @@ With over 13+ years of hands-on experience in designing, developing, and maintai
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=veerrajukakarla434&theme=transparent)](https://git.io/streak-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veerrajukakarla434&show_icons=true&locale=en&layout=compact"  alt="veerrajukakarla434" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veerrajukakarla434&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=transparent&layout=compact"  alt="veerrajukakarla434" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veerrajukakarla434&show_icons=true&include_all_commits=true&count_private=true&locale=en"  alt="veerrajukakarla434" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veerrajukakarla434&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=transparent&layout=compact"  alt="veerrajukakarla434" /></p>
+
