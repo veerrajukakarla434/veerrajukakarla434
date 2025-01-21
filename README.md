@@ -9,7 +9,7 @@ With over 13+ years of hands-on experience in designing, developing, and maintai
 #### Youtube Channel Link
 #### https://www.youtube.com/Vkakarla
 
-#### Profile Metrics 
+#### GitHub Stats & Activity
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=veerrajukakarla434&theme=transparent)](https://git.io/streak-stats)
 
