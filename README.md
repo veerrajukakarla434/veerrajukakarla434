@@ -1,7 +1,7 @@
 
 # Hi 👋,  Hello! I'm Veerraju Kakarla, a seasoned Fullstack & Senior Java-Spring Boot-Microservices Developer. With 13+ years in the field, I bring extensive expertise in building robust and scalable applications. 🌟
 
-#### Follow & Connect me on LinkedIn and youtube
+## 🌐 Let's Connect
 #### https://www.linkedin.com/in/veerraju-kakarla-54292458/
 #### https://www.youtube.com/Vkakarla
 
