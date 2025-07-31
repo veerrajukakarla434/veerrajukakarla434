@@ -9,7 +9,7 @@
 
 
 <div align="center">
-<img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs?username=veerrajukakarla434&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=tokyonight&layout=compact"  alt="veerrajukakarla434" />  
+<img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs?username=veerrajukakarla434&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=tokyonight&layout=compact&hide_progress=false"  alt="veerrajukakarla434" />  
 </div>
 
 <div align="center">
