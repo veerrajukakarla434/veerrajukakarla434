@@ -57,15 +57,8 @@ I focus on:
 
 ## 🌐 Connect With Me
 
-- 🔗 **LinkedIn:** [linkedin.com/in/veerraju-kakarla-54292458](https://www.linkedin.com/in/veerraju-kakarla-54292458/)  
-- ▶️ **YouTube:** [youtube.com/Vkakarla](https://www.youtube.com/Vkakarla)
-
-
-## 🌐 Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/veerraju-kakarla-54292458/)
-- [YouTube](https://www.youtube.com/Vkakarla)
-
+- 🔗 **LinkedIn:** - [LinkedIn](https://www.linkedin.com/in/veerraju-kakarla-54292458/)
+- ▶️ **YouTube:** - [YouTube](https://www.youtube.com/Vkakarla)
 
 #### GitHub Stats & Activity
 
@@ -78,6 +71,7 @@ I focus on:
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=veerrajukakarla434&theme=tokyonight&show_icons=true&count_private=true" />
    <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=veerrajukakarla434&theme=tokyonight" />
 </div> <br>
+
 
 ## ⭐ Fun Fact  
 I love mentoring developers, writing clean code, optimizing systems for massive scale, and creating tech content on YouTube!
