@@ -60,7 +60,7 @@ I focus on:
 - 🔗 **LinkedIn:** - [LinkedIn](https://www.linkedin.com/in/veerraju-kakarla-54292458/)
 - ▶️ **YouTube:** - [YouTube](https://www.youtube.com/Vkakarla)
 
-#### GitHub Stats & Activity
+## GitHub Stats & Activity
 
 
 <div align="center">
