@@ -54,34 +54,21 @@ I focus on:
 
 ---
 
-## 📌 Featured Projects
-
-✔ **High-Throughput Kafka + Spring Boot Pipeline**  
-✔ **Cloud-Native Microservices Platform on AWS**  
-✔ **Scalable Notification System (SNS → SQS → Microservices)**  
-✔ **Employee Management Full-Stack System (React + Spring Boot)**  
-✔ **Parking Lot System – Architecture + Implementation**  
-
-*(Provide project links and I can attach them here.)*
-
----
-
-## 🛠️ Languages & Tools  
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,aws,kafka,docker,kubernetes,git,githubactions,jenkins,mongodb,postgres,mysql,react,angular,ts,html,css,idea" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
 - 🔗 **LinkedIn:** [linkedin.com/in/veerraju-kakarla-54292458](https://www.linkedin.com/in/veerraju-kakarla-54292458/)  
 - ▶️ **YouTube:** [youtube.com/Vkakarla](https://www.youtube.com/Vkakarla)
 
----
 
-## 📊 GitHub Stats & Activity
+## 🌐 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/veerraju-kakarla-54292458/)
+- [YouTube](https://www.youtube.com/Vkakarla)
+
+
+#### GitHub Stats & Activity
+
 
 <div align="center">
 <img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs?username=veerrajukakarla434&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=tokyonight&layout=compact&hide_progress=false"  alt="veerrajukakarla434" />  
@@ -91,8 +78,6 @@ I focus on:
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=veerrajukakarla434&theme=tokyonight&show_icons=true&count_private=true" />
    <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=veerrajukakarla434&theme=tokyonight" />
 </div> <br>
-
----
 
 ## ⭐ Fun Fact  
 I love mentoring developers, writing clean code, optimizing systems for massive scale, and creating tech content on YouTube!
