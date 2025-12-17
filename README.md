@@ -44,7 +44,7 @@ With **14+ years of experience**, I lead and build large-scale, cloud-native, an
 
 <p align="center">
   <a href="https://github.com/veerrajukakarla434">
-    <img width="400" src="https://streak-stats.demolab.com/?user=veerrajukakarla434&theme=tokyonight" alt="GitHub Streak" />
+    <img width="425" src="https://streak-stats.demolab.com/?user=veerrajukakarla434&theme=tokyonight" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/veerrajukakarla434">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=veerrajukakarla434&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub Stats" />
